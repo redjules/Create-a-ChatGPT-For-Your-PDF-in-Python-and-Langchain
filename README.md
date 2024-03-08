@@ -26,3 +26,14 @@ To use the application, run the main.py file with the streamlit CLI (after havin
 ```
 streamlit run app.py
 ```
+
+Result:
+
+<img width="608" alt="Screenshot 2024-03-08 at 20 52 01" src="https://github.com/redjules/Create-a-ChatGPT-For-Your-PDF-in-Python-and-Langchain/assets/106017493/8b32e0ce-d1cd-4167-b070-8eca434a80b1">
+
+we also track how much momney we are spending per question:
+
+
+<img width="332" alt="Screenshot 2024-03-08 at 20 53 33" src="https://github.com/redjules/Create-a-ChatGPT-For-Your-PDF-in-Python-and-Langchain/assets/106017493/942ca062-a41b-4f51-b016-98bc7847f491">
+
+
