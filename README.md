@@ -31,6 +31,9 @@ Result:
 
 <img width="608" alt="Screenshot 2024-03-08 at 20 52 01" src="https://github.com/redjules/Create-a-ChatGPT-For-Your-PDF-in-Python-and-Langchain/assets/106017493/8b32e0ce-d1cd-4167-b070-8eca434a80b1">
 
+![Screenshot 2024-03-08 at 20 59 45](https://github.com/redjules/Create-a-ChatGPT-For-Your-PDF-in-Python-and-Langchain/assets/106017493/0689e157-a175-4843-96af-993a4b4b2e0e)
+
+
 we also track how much momney we are spending per question:
 
 
