@@ -37,7 +37,7 @@ Result:
 ![Screenshot 2024-03-08 at 21 00 38](https://github.com/redjules/Create-a-ChatGPT-For-Your-PDF-in-Python-and-Langchain/assets/106017493/d761be15-f505-46fc-913c-3a41c8f9b224)
 
 
-we also track how much money we are spending per question:
+We also track how much money we are spending per question:
 
 
 <img width="332" alt="Screenshot 2024-03-08 at 20 53 33" src="https://github.com/redjules/Create-a-ChatGPT-For-Your-PDF-in-Python-and-Langchain/assets/106017493/942ca062-a41b-4f51-b016-98bc7847f491">
